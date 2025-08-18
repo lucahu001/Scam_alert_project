@@ -1,4 +1,3 @@
-# Scam_alert_project <br>
 # Project Title
 
 AI SCAM ALERT
