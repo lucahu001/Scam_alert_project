@@ -1,6 +1,6 @@
 # Project Title
 
-AI SCAM ALERT
+AI SCAM ALERT (Intelligent Scam Message Warning System)
 
 ## Project Description
 
